@@ -2,14 +2,10 @@
   "name": "corona_stats",
   "version": "1.0.0",
   "description": "",
-  "main": "read.js",
+  "main": "ui.js",
   "dependencies": {
     "node-gtk": "^0.4.0"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Tigran Martirosyan (tmartiro at gmail.com)",
   "license": "MIT"
 }
